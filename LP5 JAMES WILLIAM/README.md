@@ -1,4 +1,4 @@
-![Banner analise de dados](LP5 JAMES WILLIAM/imagens/banner.png).
+![Banner analise de dados](./imagens/banner.png).
 # Linguagem de programação 5
 
 Repositório para estudo da disciplina do 5 período
